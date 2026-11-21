@@ -26,6 +26,12 @@ zavisly_vyvojar#errorlevel>∞#@echo_off#
 ## in this stochastic reality
 
 - [X] SOLVED- [ ] UNRESOLVED- [ ] UNRESOLVED- [ ] UNRESOLVED
+- [ ] - [X]- [X]- [X]
+
+```js
+...>nasratjako
+```
+
 
 ---
 
