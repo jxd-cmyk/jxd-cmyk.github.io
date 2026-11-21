@@ -87,7 +87,7 @@ Entropie složeného pokusu, v kterém záleží na pořadí pokusů a kde jsou 
 
 ---
 
-<img width="1500" height="654" alt="AI-snail-benchmark_header-1" src="https://github.com/user-attachments/assets/923dca7d-9f89-49ed-acd2-879b7b16ef58" />
+<img width="800" height="349" alt="AI-snail-benchmark_header-1" src="https://github.com/user-attachments/assets/7497123f-f9e5-4d63-8b26-e2b57afd6b62" />
 
 ---
 # [Bug Ware](https://apps.microsoft.com/search/publisher?name=Ji%C5%99%C3%AD+X.+Dole%C5%BEal&hl=en-US&gl=CZ) \
@@ -95,13 +95,13 @@ Entropie složeného pokusu, v kterém záleží na pořadí pokusů a kde jsou 
 ---
 <img width="600" height="265" alt="jxd_VibeLabs_header" src="https://github.com/user-attachments/assets/cc929592-01b8-40d5-a38f-8f28dcbc8c60" />
 
-Bats Swarm - [X] SOLVED [Microsoft Store](https://apps.microsoft.com/detail/9p94gjp7xnff?hl=en-US&gl=CZ)  \
-BIBUWAY - [X] SOLVED [Microsoft Store](https://apps.microsoft.com/detail/9n2qxlzmr8st?hl=en-US&gl=CZ) \
-Bug Clock - [X] SOLVED [Microsoft Store](https://apps.microsoft.com/detail/9nn4mqpz160t?hl=en-US&gl=CZ) \
-Bug mdPad - [X] SOLVED [Microsoft Store](https://apps.microsoft.com/detail/9p4s1sjvxv9k?hl=en-US&gl=CZ) \
-Bug Player - [X] SOLVED [Microsoft Store](https://apps.microsoft.com/detail/9nnqp58bbrs4?hl=en-US&gl=CZ) \
-Bug Video - [X] SOLVED [Microsoft Store](https://apps.microsoft.com/detail/9pcwj80qc9bn?hl=en-US&gl=CZ) \
-BugDance - [X] SOLVED [Microsoft Store](https://apps.microsoft.com/detail/9n2sxrc95vv5?hl=en-US&gl=CZ) \
-Spider Watch - [X] SOLVED [Microsoft Store](https://apps.microsoft.com/detail/9p6fx1k5143z?hl=en-US&gl=CZ)
+- Bats Swarm - [X] SOLVED [Microsoft Store](https://apps.microsoft.com/detail/9p94gjp7xnff?hl=en-US&gl=CZ)  \
+- BIBUWAY - [X] SOLVED [Microsoft Store](https://apps.microsoft.com/detail/9n2qxlzmr8st?hl=en-US&gl=CZ) \
+- Bug Clock - [X] SOLVED [Microsoft Store](https://apps.microsoft.com/detail/9nn4mqpz160t?hl=en-US&gl=CZ) \
+- Bug mdPad - [X] SOLVED [Microsoft Store](https://apps.microsoft.com/detail/9p4s1sjvxv9k?hl=en-US&gl=CZ) \
+- Bug Player - [X] SOLVED [Microsoft Store](https://apps.microsoft.com/detail/9nnqp58bbrs4?hl=en-US&gl=CZ) \
+- Bug Video - [X] SOLVED [Microsoft Store](https://apps.microsoft.com/detail/9pcwj80qc9bn?hl=en-US&gl=CZ) \
+- BugDance - [X] SOLVED [Microsoft Store](https://apps.microsoft.com/detail/9n2sxrc95vv5?hl=en-US&gl=CZ) \
+- Spider Watch - [X] SOLVED [Microsoft Store](https://apps.microsoft.com/detail/9p6fx1k5143z?hl=en-US&gl=CZ)
 
 ---
