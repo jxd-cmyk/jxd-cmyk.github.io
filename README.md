@@ -43,20 +43,33 @@ zavisly_vyvojar#errorlevel>∞#@echo_off#
 kdo vydávají tmu za světlo a světlo nazývají tmou, \
 kdo vydávají hořkost za sladkost a sladkost za hořkost!*~~
 ### Izajáš 
+
 --- 
+
 ---  
-*Tytéž činy jsou buď čestné anebo nečestné, 
-záleží na tom, PROČ NEBO JAK JSOU KONÁNY.* 
+
+```js
+Tytéž činy jsou buď čestné anebo nečestné, 
+záleží na tom, PROČ NEBO JAK JSOU KONÁNY.
+```
 ### Lucius Annaeus Seneca 
+
 - [ ] UNRESOLVED
+
 ---  
+
 ```js
 možnost být vcelku“ (Ganz-sein-können) znamená „odhodlaně“
 přijmout svůj pobyt jako bytí k smrti a jednat podle toho
 ```
 ### Heidegger
+
 - [ ] UNRESOLVED
+
 ---  
+
+---  
+
 ```js
 Entropie jevu se rovná nule, když je tento jev jednoznačně určený.
 Entropie libovolného jevu se blíží k hodnotě nula (maximální určitosti systému), když se pravděpodobnost jevu blíží hodnotě jedna nebo nula.
@@ -65,7 +78,9 @@ Entropie je maximální, při rovnoměrném rozložení pravděpodobnosti všech
 Entropie složeného pokusu, v kterém záleží na pořadí pokusů a kde jsou jevy navzájem nezávislé, je celková entropie rovna součtu entropií jednotlivých pokusů.
 ```
 - [X] SOLVED
+
 ---  
+
 *Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn*
 - [X] SOLVED
 
