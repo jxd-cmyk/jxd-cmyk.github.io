@@ -91,6 +91,7 @@ přijmout svůj pobyt jako bytí k smrti a jednat podle toho
 - Spider Watch - [X] SOLVED [Microsoft Store](https://apps.microsoft.com/detail/9p6fx1k5143z?hl=en-US&gl=CZ)
 
 ---
+<img width="500" height="375" alt="Bug_Clock_plakat_2000x1500" src="https://github.com/user-attachments/assets/ce283ad1-1759-473b-ac26-7cbc936eeb14" />
 
 
 ---  
@@ -108,5 +109,6 @@ Entropie složeného pokusu, v kterém záleží na pořadí pokusů a kde jsou 
 
 *Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn*
 - [X] SOLVED
+
 
 ---
