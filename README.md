@@ -43,9 +43,6 @@ zavisly_vyvojar#errorlevel>∞#@echo_off#
 kdo vydávají tmu za světlo a světlo nazývají tmou, \
 kdo vydávají hořkost za sladkost a sladkost za hořkost!*~~
 ### Izajáš 
-
---- 
-
 ---  
 
 ```js
