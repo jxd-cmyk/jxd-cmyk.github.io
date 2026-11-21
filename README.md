@@ -1,16 +1,18 @@
 ## JXD VibeLabs
 
-<img width="1340" height="592" alt="jxd_VibeLabs_header" src="https://github.com/user-attachments/assets/683b0a05-2cca-42d0-8f83-03a83caef416" />
+<img width="600" height="265" alt="jxd_VibeLabs_header" src="https://github.com/user-attachments/assets/20081f27-2748-4240-9192-b2257c60dd09" />
+
 
 xxxxx
 
 xxxxxx
 
-<img width="1500" height="654" alt="AI-snail-benchmark_header-1" src="https://github.com/user-attachments/assets/54e36d48-6c30-4479-bea6-4278b40546cd" />
+<img width="600" height="262" alt="AI-snail-benchmark_header-1" src="https://github.com/user-attachments/assets/6c0a545d-2d9d-4869-beac-26e206e2fe45" />
+
 
 xxxxx
 
+<img width="400" height="508" alt="JXD_VibeLabs_left_look-472x600" src="https://github.com/user-attachments/assets/d548ca2d-e0d2-48a5-aec4-7c5b773770d2" />
 
 xxxxxxx
 
-<img width="500" height="500" alt="JXD VibeLabs_white_500" src="https://github.com/user-attachments/assets/deaa78a0-0168-4dcf-94e3-1199be66cf75" />
