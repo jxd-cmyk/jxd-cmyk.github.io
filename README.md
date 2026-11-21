@@ -25,9 +25,10 @@ zavisly_vyvojar#errorlevel>∞#@echo_off#
 
 [email](mailto:jxd@jxd.cz) \
 [web](https://jxd.cz/)
-# yo no naka ni guuzen wa nai, aru no wa hitsuzen dake
---- 
+## yo no naka ni guuzen wa nai, aru no wa hitsuzen dake
+
 ---  
+
 ~~Byls polovičák! Pro peklo není tvůj případ dost vážný,
  horký ni studený nebyls – jen vlažný.
  Hříšníkem nebyls ve velkém stylu,
