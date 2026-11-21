@@ -28,33 +28,31 @@ zavisly_vyvojar#errorlevel>∞#@echo_off#
 ## yo no naka ni guuzen wa nai, aru no wa hitsuzen dake
 
 ---  
-
-~~Byls polovičák! Pro peklo není tvůj případ dost vážný,
+~~*Byls polovičák! Pro peklo není tvůj případ dost vážný,
  horký ni studený nebyls – jen vlažný.
  Hříšníkem nebyls ve velkém stylu,
  lepším být – k tomu neměl jsi víru,
  pekla i nebe musíš se odříci –
- půjdeš sem ke mně – na lžíci!~~
-### Ibsen, 1949
+ půjdeš sem ke mně – na lžíci!*~~
+### Ibsen
 ---  
 ~~*V každodennosti se člověk ztrácí v tom, co ‚se‘ dělá, co ‚se‘ říká a myslí. V tom ‚se‘ mizí vlastní bytí člověka.*~~
-### Bytí a čas, Heidegger
+### Heidegger
 ---
----
-*Běda těm, kdo říkají zlu dobro a dobru zlo, \
+~~*Běda těm, kdo říkají zlu dobro a dobru zlo, \
 kdo vydávají tmu za světlo a světlo nazývají tmou, \
-kdo vydávají hořkost za sladkost a sladkost za hořkost!*
-### Izajáš 5:20 Bible 21
-- [ ] UNRESOLVED
+kdo vydávají hořkost za sladkost a sladkost za hořkost!*~~
+### Izajáš 
+--- 
 ---  
 *Tytéž činy jsou buď čestné anebo nečestné, 
 záleží na tom, PROČ NEBO JAK JSOU KONÁNY.* 
-### Lucius Annaeus Seneca - 4 př.n .l. - 65 n.l.
+### Lucius Annaeus Seneca 
 - [ ] UNRESOLVED
 ---  
 ```js
 možnost být vcelku“ (Ganz-sein-können) znamená „odhodlaně“
-přijmout svůj pobyt jako bytí k smrti a jednat podle toho.
+přijmout svůj pobyt jako bytí k smrti a jednat podle toho
 ```
 ### Heidegger
 - [ ] UNRESOLVED
