@@ -7,7 +7,8 @@
 zavisly_vyvojar#errorlevel>∞#@echo_off#
 ```
 
-<img width="400" height="508" alt="JXD_VibeLabs_left_look-472x600" src="https://github.com/user-attachments/assets/d548ca2d-e0d2-48a5-aec4-7c5b773770d2" />
+<img width="500" height="500" alt="JXD VibeLabs_black_500" src="https://github.com/user-attachments/assets/5145dbff-6815-4873-83af-de87cff28b7c" />
+
 
 # Vibe coding is the last bastion of rationality
 
@@ -87,7 +88,7 @@ Entropie složeného pokusu, v kterém záleží na pořadí pokusů a kde jsou 
 
 ---
 
-<img width="800" height="349" alt="AI-snail-benchmark_header-1" src="https://github.com/user-attachments/assets/7497123f-f9e5-4d63-8b26-e2b57afd6b62" />
+<img width="600" height="262" alt="AI-snail-benchmark_header-1" src="https://github.com/user-attachments/assets/8f2dc886-c59e-45ec-975a-9be6f5ea2263" />
 
 ---
 # [Bug Ware](https://apps.microsoft.com/search/publisher?name=Ji%C5%99%C3%AD+X.+Dole%C5%BEal&hl=en-US&gl=CZ) \
