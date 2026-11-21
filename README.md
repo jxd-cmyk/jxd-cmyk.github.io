@@ -66,23 +66,6 @@ přijmout svůj pobyt jako bytí k smrti a jednat podle toho
 
 ---  
 
----  
-
-```js
-Entropie jevu se rovná nule, když je tento jev jednoznačně určený.
-Entropie libovolného jevu se blíží k hodnotě nula (maximální určitosti systému), když se pravděpodobnost jevu blíží hodnotě jedna nebo nula.
-Entropie je kladné číslo, v krajním případě (pro P=1 nebo P=0) rovné 0.
-Entropie je maximální, při rovnoměrném rozložení pravděpodobnosti všech možných jevů.
-Entropie složeného pokusu, v kterém záleží na pořadí pokusů a kde jsou jevy navzájem nezávislé, je celková entropie rovna součtu entropií jednotlivých pokusů.
-```
-- [X] SOLVED
-
----  
-
-*Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn*
-- [X] SOLVED
-
----
 
 # [TuxRating – AI snail benchmark](https://jxd.cz/jxd-ai-snail-benchmark/) \
 
@@ -106,5 +89,24 @@ Entropie složeného pokusu, v kterém záleží na pořadí pokusů a kde jsou 
 - Bug Video - [X] SOLVED [Microsoft Store](https://apps.microsoft.com/detail/9pcwj80qc9bn?hl=en-US&gl=CZ) \
 - BugDance - [X] SOLVED [Microsoft Store](https://apps.microsoft.com/detail/9n2sxrc95vv5?hl=en-US&gl=CZ) \
 - Spider Watch - [X] SOLVED [Microsoft Store](https://apps.microsoft.com/detail/9p6fx1k5143z?hl=en-US&gl=CZ)
+
+---
+
+
+---  
+
+```js
+Entropie jevu se rovná nule, když je tento jev jednoznačně určený.
+Entropie libovolného jevu se blíží k hodnotě nula (maximální určitosti systému), když se pravděpodobnost jevu blíží hodnotě jedna nebo nula.
+Entropie je kladné číslo, v krajním případě (pro P=1 nebo P=0) rovné 0.
+Entropie je maximální, při rovnoměrném rozložení pravděpodobnosti všech možných jevů.
+Entropie složeného pokusu, v kterém záleží na pořadí pokusů a kde jsou jevy navzájem nezávislé, je celková entropie rovna součtu entropií jednotlivých pokusů.
+```
+- [X] SOLVED
+
+---  
+
+*Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn*
+- [X] SOLVED
 
 ---
