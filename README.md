@@ -94,7 +94,9 @@ Entropie složeného pokusu, v kterém záleží na pořadí pokusů a kde jsou 
 # [Bug Ware](https://apps.microsoft.com/search/publisher?name=Ji%C5%99%C3%AD+X.+Dole%C5%BEal&hl=en-US&gl=CZ) \
 
 ---
-<img width="600" height="265" alt="jxd_VibeLabs_header" src="https://github.com/user-attachments/assets/cc929592-01b8-40d5-a38f-8f28dcbc8c60" />
+
+<img width="500" height="221" alt="imageedit_6_4913507906" src="https://github.com/user-attachments/assets/91bd0522-9b14-4b2b-922e-3fbb04d42e50" />
+
 
 - Bats Swarm - [X] SOLVED [Microsoft Store](https://apps.microsoft.com/detail/9p94gjp7xnff?hl=en-US&gl=CZ)  \
 - BIBUWAY - [X] SOLVED [Microsoft Store](https://apps.microsoft.com/detail/9n2qxlzmr8st?hl=en-US&gl=CZ) \
