@@ -2,6 +2,7 @@
 
 # jxd
 - [ ] UNRESOLVED
+      
 ```js
 zavisly_vyvojar#errorlevel>∞#@echo_off#
 ```
@@ -12,38 +13,62 @@ zavisly_vyvojar#errorlevel>∞#@echo_off#
 
 ---  
 
- *in this stochastic reality*
-
- ~~in this chaotic reality~~- [ ] UNRESOLVED
-
-~~in this stochastic reality~~- [ ] UNRESOLVED
-
-> in this chaotic reality
-
-## in this chaotic reality
-
-## in this stochastic reality
-
-- [X] SOLVED- [ ] UNRESOLVED- [ ] UNRESOLVED- [ ] UNRESOLVED
-- [ ] - [X]- [X]- [X]
+ ~~in this chaotic reality~~ 
+ 
+ ~~in this stochastic reality~~
 
 ```js
-...#>interdisciplinarne#divergentne#multikulturne
+...#> in this reality.#
 ```
-
 
 ---
 
-## is the last bastion - [X] SOLVED
-- [ ] UNRESOLVED- [ ] UNRESOLVED- [ ] UNRESOLVED
-\
-of rationality - [X] SOLVED - [X] SOLVED - [X] SOLVED
-# of rationality
-
-
-
-~~in this stochastic reality~~- [ ] UNRESOLVABLE
-
+[email](mailto:jxd@jxd.cz) \
+[web](https://jxd.cz/)
+# yo no naka ni guuzen wa nai, aru no wa hitsuzen dake
+--- 
+---  
+~~Byls polovičák! Pro peklo není tvůj případ dost vážný,
+ horký ni studený nebyls – jen vlažný.
+ Hříšníkem nebyls ve velkém stylu,
+ lepším být – k tomu neměl jsi víru,
+ pekla i nebe musíš se odříci –
+ půjdeš sem ke mně – na lžíci!~~
+### Ibsen, 1949
+---  
+~~*V každodennosti se člověk ztrácí v tom, co ‚se‘ dělá, co ‚se‘ říká a myslí. V tom ‚se‘ mizí vlastní bytí člověka.*~~
+### Bytí a čas, Heidegger
+---
+---
+*Běda těm, kdo říkají zlu dobro a dobru zlo, \
+kdo vydávají tmu za světlo a světlo nazývají tmou, \
+kdo vydávají hořkost za sladkost a sladkost za hořkost!*
+### Izajáš 5:20 Bible 21
+- [ ] UNRESOLVED
+---  
+*Tytéž činy jsou buď čestné anebo nečestné, 
+záleží na tom, PROČ NEBO JAK JSOU KONÁNY.* 
+### Lucius Annaeus Seneca - 4 př.n .l. - 65 n.l.
+- [ ] UNRESOLVED
+---  
+```js
+možnost být vcelku“ (Ganz-sein-können) znamená „odhodlaně“
+přijmout svůj pobyt jako bytí k smrti a jednat podle toho.
+```
+### Heidegger
+- [ ] UNRESOLVED
+---  
+```js
+Entropie jevu se rovná nule, když je tento jev jednoznačně určený.
+Entropie libovolného jevu se blíží k hodnotě nula (maximální určitosti systému), když se pravděpodobnost jevu blíží hodnotě jedna nebo nula.
+Entropie je kladné číslo, v krajním případě (pro P=1 nebo P=0) rovné 0.
+Entropie je maximální, při rovnoměrném rozložení pravděpodobnosti všech možných jevů.
+Entropie složeného pokusu, v kterém záleží na pořadí pokusů a kde jsou jevy navzájem nezávislé, je celková entropie rovna součtu entropií jednotlivých pokusů.
+```
+- [X] SOLVED
+---  
+*Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn*
+- [X] SOLVED
 
 ---
 
@@ -53,18 +78,11 @@ of rationality - [X] SOLVED - [X] SOLVED - [X] SOLVED
 
 <img width="600" height="262" alt="AI-snail-benchmark_header-1" src="https://github.com/user-attachments/assets/6c0a545d-2d9d-4869-beac-26e206e2fe45" />
 
-
-
-
-
 ---
-
 # [Bug Ware](https://apps.microsoft.com/search/publisher?name=Ji%C5%99%C3%AD+X.+Dole%C5%BEal&hl=en-US&gl=CZ) \
 
 ---
-
 <img width="600" height="265" alt="jxd_VibeLabs_header" src="https://github.com/user-attachments/assets/cc929592-01b8-40d5-a38f-8f28dcbc8c60" />
-
 
 Bats Swarm - [X] SOLVED [Microsoft Store](https://apps.microsoft.com/detail/9p94gjp7xnff?hl=en-US&gl=CZ)  \
 BIBUWAY - [X] SOLVED [Microsoft Store](https://apps.microsoft.com/detail/9n2qxlzmr8st?hl=en-US&gl=CZ) \
@@ -76,7 +94,3 @@ BugDance - [X] SOLVED [Microsoft Store](https://apps.microsoft.com/detail/9n2sxr
 Spider Watch - [X] SOLVED [Microsoft Store](https://apps.microsoft.com/detail/9p6fx1k5143z?hl=en-US&gl=CZ)
 
 ---
-
-<img width="400" height="400" alt="BugWare_400_px" src="https://github.com/user-attachments/assets/03b6a1cd-29d9-4979-838b-33bd467c2a70" />
-
-
