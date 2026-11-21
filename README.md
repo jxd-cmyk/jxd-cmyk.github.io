@@ -88,7 +88,7 @@ Entropie složeného pokusu, v kterém záleží na pořadí pokusů a kde jsou 
 
 ---
 
-<img width="600" height="262" alt="AI-snail-benchmark_header-1" src="https://github.com/user-attachments/assets/8f2dc886-c59e-45ec-975a-9be6f5ea2263" />
+<img width="500" height="218" alt="AI-snail-benchmark_header-1" src="https://github.com/user-attachments/assets/a2f6745c-b857-48ef-9cae-5f52a5d1128e" />
 
 ---
 # [Bug Ware](https://apps.microsoft.com/search/publisher?name=Ji%C5%99%C3%AD+X.+Dole%C5%BEal&hl=en-US&gl=CZ) \
