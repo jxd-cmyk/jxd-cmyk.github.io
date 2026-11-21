@@ -1,5 +1,12 @@
 ## JXD VibeLabs
 
+# jxd
+- [ ] UNRESOLVED
+```js
+zavisly_vyvojar#errorlevel>∞#@echo_off#
+```
+
+
 <img width="400" height="508" alt="JXD_VibeLabs_left_look-472x600" src="https://github.com/user-attachments/assets/d548ca2d-e0d2-48a5-aec4-7c5b773770d2" />
 
 # Vibe coding
@@ -70,8 +77,3 @@ Spider Watch - [X] SOLVED [Microsoft Store](https://apps.microsoft.com/detail/9p
 <img width="400" height="400" alt="BugWare_400_px" src="https://github.com/user-attachments/assets/03b6a1cd-29d9-4979-838b-33bd467c2a70" />
 
 
-# jxd
-- [ ] UNRESOLVED
-```js
-zavisly_vyvojar#errorlevel>∞#@echo_off#
-```
