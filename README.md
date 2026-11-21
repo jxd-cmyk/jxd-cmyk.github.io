@@ -29,7 +29,7 @@ zavisly_vyvojar#errorlevel>∞#@echo_off#
 - [ ] - [X]- [X]- [X]
 
 ```js
-...#>nasratjako
+...#>interdisciplinarne#divergentne#multikulturne
 ```
 
 
