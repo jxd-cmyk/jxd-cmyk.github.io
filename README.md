@@ -6,7 +6,6 @@
 zavisly_vyvojar#errorlevel>∞#@echo_off#
 ```
 
-
 <img width="400" height="508" alt="JXD_VibeLabs_left_look-472x600" src="https://github.com/user-attachments/assets/d548ca2d-e0d2-48a5-aec4-7c5b773770d2" />
 
 # Vibe coding is the last bastion of rationality
