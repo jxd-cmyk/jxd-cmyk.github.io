@@ -97,9 +97,6 @@ originally nothing # v podstatě je prázno
 *I test the capabilities of AI models in their free versions. Create a web page (HTML) that will be included as a subpage at https://jxd.cz/
 The page will feature an animation depicting the growth of a ammonite shell, from a single point to a fully grown shell.*
 
-
-<img width="500" height="648" alt="qwen" src="https://github.com/user-attachments/assets/495d015d-750d-422a-a0d8-b582cabdbc5e" />
-
 ---
 
 # [Bug Ware](https://apps.microsoft.com/search/publisher?name=Ji%C5%99%C3%AD+X.+Dole%C5%BEal&hl=en-US&gl=CZ) \
