@@ -28,7 +28,7 @@ zavisly_vyvojar#errorlevel>∞#@echo_off#
 [email](mailto:jxd@jxd.cz) \
 [web](https://jxd.cz/)
 
-<img width="600" height="600" alt="fff" src="https://github.com/user-attachments/assets/71335af8-96c6-4777-af12-fc5bf302ebdc" />
+<img width="1376" height="752" alt="imageedit_5_3739678636" src="https://github.com/user-attachments/assets/d5350709-9bbd-4272-94ab-7a653148b94c" />
 
 
 ## yo no naka ni guuzen wa nai, aru no wa hitsuzen dake
