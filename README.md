@@ -73,6 +73,7 @@ přijmout svůj pobyt jako bytí k smrti a jednat podle toho
 
 # [TuxRating – AI snail benchmark](https://jxd.cz/jxd-ai-snail-benchmark/) \
 
+---
 
 <img width="500" height="218" alt="AI-snail-benchmark" src="https://github.com/user-attachments/assets/a2f6745c-b857-48ef-9cae-5f52a5d1128e" />
 
