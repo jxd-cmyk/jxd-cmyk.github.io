@@ -1,5 +1,3 @@
-## JXD VibeLabs
-
 # jxd
 - [ ] UNRESOLVED
       
@@ -10,7 +8,7 @@ zavisly_vyvojar#errorlevel>∞#@echo_off#
 <img width="500" height="500" alt="JXD VibeLabs_black_500" src="https://github.com/user-attachments/assets/5145dbff-6815-4873-83af-de87cff28b7c" />
 
 
-# Vibe coding is the last bastion of rationality
+# JXD VibeLabs: Vibe coding is the last bastion of rationality
 
 ---  
 
@@ -47,8 +45,8 @@ kdo vydávají hořkost za sladkost a sladkost za hořkost!*~~
 ---  
 
 ```js
-Tytéž činy jsou buď čestné anebo nečestné, 
-záleží na tom, PROČ NEBO JAK JSOU KONÁNY.
+“Tytéž činy jsou buď čestné anebo nečestné, 
+záleží na tom, PROČ NEBO JAK JSOU KONÁNY.“
 ```
 ### Lucius Annaeus Seneca 
 
@@ -57,7 +55,7 @@ záleží na tom, PROČ NEBO JAK JSOU KONÁNY.
 ---  
 
 ```js
-možnost být vcelku“ (Ganz-sein-können) znamená „odhodlaně“
+“možnost být vcelku“ (Ganz-sein-können) znamená “odhodlaně“
 přijmout svůj pobyt jako bytí k smrti a jednat podle toho
 ```
 ### Heidegger
