@@ -75,7 +75,6 @@ přijmout svůj pobyt jako bytí k smrti a jednat podle toho
 
 ---
 # [Bug Ware](https://apps.microsoft.com/search/publisher?name=Ji%C5%99%C3%AD+X.+Dole%C5%BEal&hl=en-US&gl=CZ) \
-
 ---
 
 <img width="500" height="221" alt=" Bug" src="https://github.com/user-attachments/assets/91bd0522-9b14-4b2b-922e-3fbb04d42e50" />
@@ -89,6 +88,8 @@ přijmout svůj pobyt jako bytí k smrti a jednat podle toho
 - Spider Watch - [X] SOLVED [Microsoft Store](https://apps.microsoft.com/detail/9p6fx1k5143z?hl=en-US&gl=CZ) 
 
 <img width="500" height="375" alt="Bug_Clock" src="https://github.com/user-attachments/assets/ce283ad1-1759-473b-ac26-7cbc936eeb14" />
+
+# [Hell Ware](https://apps.microsoft.com/detail/9p94gjp7xnff?hl=en-US&gl=CZ) \
 
 ---
 
