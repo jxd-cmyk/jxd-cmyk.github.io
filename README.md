@@ -7,6 +7,8 @@ zavisly_vyvojar#errorlevel>∞#@echo_off#
 
 <img width="500" height="500" alt="JXD VibeLabs_black_500" src="https://github.com/user-attachments/assets/5145dbff-6815-4873-83af-de87cff28b7c" />
 
+*Tux © Larry Ewing*
+
 
 # JXD VibeLabs: Vibe coding is the last bastion of rationality
 
