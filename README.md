@@ -23,12 +23,15 @@ zavisly_vyvojar#errorlevel>∞#@echo_off#
 ```
 
 ---
+---
 
 [email](mailto:jxd@jxd.cz) \
 [web](https://jxd.cz/)
 ## yo no naka ni guuzen wa nai, aru no wa hitsuzen dake
 
+---
 ---  
+
 ~~*Byls polovičák! Pro peklo není tvůj případ dost vážný,
  horký ni studený nebyls – jen vlažný.
  Hříšníkem nebyls ve velkém stylu,
@@ -66,14 +69,22 @@ přijmout svůj pobyt jako bytí k smrti a jednat podle toho
 
 ---  
 
+---
 
 # [TuxRating – AI snail benchmark](https://jxd.cz/jxd-ai-snail-benchmark/) \
 
----
 
 <img width="500" height="218" alt="AI-snail-benchmark" src="https://github.com/user-attachments/assets/a2f6745c-b857-48ef-9cae-5f52a5d1128e" />
 
+
+*I test the capabilities of AI models in their free versions. Create a web page (HTML) that will be included as a subpage at https://jxd.cz/
+The page will feature an animation depicting the growth of a ammonite shell, from a single point to a fully grown shell.*
+
+
+<img width="500" height="648" alt="qwen" src="https://github.com/user-attachments/assets/495d015d-750d-422a-a0d8-b582cabdbc5e" />
+
 ---
+
 # [Bug Ware](https://apps.microsoft.com/search/publisher?name=Ji%C5%99%C3%AD+X.+Dole%C5%BEal&hl=en-US&gl=CZ) \
 ---
 
@@ -89,17 +100,21 @@ přijmout svůj pobyt jako bytí k smrti a jednat podle toho
 
 <img width="500" height="375" alt="Bug_Clock" src="https://github.com/user-attachments/assets/ce283ad1-1759-473b-ac26-7cbc936eeb14" />
 
+---
+
 # [Hell Ware](https://apps.microsoft.com/detail/9p94gjp7xnff?hl=en-US&gl=CZ) \
 
 ---
 
 <img width="500" height="282" alt="Diabolus" src="https://github.com/user-attachments/assets/63468c18-2ca0-47ef-ab0d-4a4584caeb87" />
 
-- Bats Swarm - [X] SOLVED [Microsoft Store](https://apps.microsoft.com/detail/9p94gjp7xnff?hl=en-US&gl=CZ)  \
+- Bats Swarm - [X] SOLVED [Microsoft Store](https://apps.microsoft.com/detail/9p94gjp7xnff?hl=en-US&gl=CZ)  
 
 <img width="500" height="375" alt="Bats_Swar" src="https://github.com/user-attachments/assets/c60c6fde-cce1-4732-801c-e24cb97c6fae" />
 
 ---
+---
+
 
 ```js
 Entropie jevu se rovná nule, když je tento jev jednoznačně určený.
