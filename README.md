@@ -75,6 +75,16 @@ přijmout svůj pobyt jako bytí k smrti a jednat podle toho
 
 ---  
 
+```js
+originally nothing # v podstatě je prázno
+```
+[FULLTEXT](https://is.muni.cz/el/1421/jaro2006/RLA11/um/Tribunova_sutra.pdf)
+
+### Huineng
+
+- [ ] UNRESOLVED
+
+---  
 ---
 
 # [TuxRating – AI snail benchmark](https://jxd.cz/jxd-ai-snail-benchmark/) \
