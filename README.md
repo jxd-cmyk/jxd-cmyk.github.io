@@ -27,7 +27,12 @@ zavisly_vyvojar#errorlevel>∞#@echo_off#
 
 [email](mailto:jxd@jxd.cz) \
 [web](https://jxd.cz/)
+
+<img width="600" height="600" alt="fff" src="https://github.com/user-attachments/assets/71335af8-96c6-4777-af12-fc5bf302ebdc" />
+
+
 ## yo no naka ni guuzen wa nai, aru no wa hitsuzen dake
+## Na světě neexistují náhody, existuje pouze nevyhnutelnost.
 
 ---
 ---  
