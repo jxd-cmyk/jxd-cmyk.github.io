@@ -71,30 +71,34 @@ přijmout svůj pobyt jako bytí k smrti a jednat podle toho
 
 ---
 
-<img width="500" height="218" alt="AI-snail-benchmark_header-1" src="https://github.com/user-attachments/assets/a2f6745c-b857-48ef-9cae-5f52a5d1128e" />
+<img width="500" height="218" alt="AI-snail-benchmark" src="https://github.com/user-attachments/assets/a2f6745c-b857-48ef-9cae-5f52a5d1128e" />
 
 ---
 # [Bug Ware](https://apps.microsoft.com/search/publisher?name=Ji%C5%99%C3%AD+X.+Dole%C5%BEal&hl=en-US&gl=CZ) \
 
 ---
 
-<img width="500" height="221" alt="imageedit_6_4913507906" src="https://github.com/user-attachments/assets/91bd0522-9b14-4b2b-922e-3fbb04d42e50" />
+<img width="500" height="221" alt=" Bug" src="https://github.com/user-attachments/assets/91bd0522-9b14-4b2b-922e-3fbb04d42e50" />
 
+- BIBUWAY - [X] SOLVED [Microsoft Store](https://apps.microsoft.com/detail/9n2qxlzmr8st?hl=en-US&gl=CZ) 
+- Bug Clock - [X] SOLVED [Microsoft Store](https://apps.microsoft.com/detail/9nn4mqpz160t?hl=en-US&gl=CZ) 
+- Bug mdPad - [X] SOLVED [Microsoft Store](https://apps.microsoft.com/detail/9p4s1sjvxv9k?hl=en-US&gl=CZ) 
+- Bug Player - [X] SOLVED [Microsoft Store](https://apps.microsoft.com/detail/9nnqp58bbrs4?hl=en-US&gl=CZ) 
+- Bug Video - [X] SOLVED [Microsoft Store](https://apps.microsoft.com/detail/9pcwj80qc9bn?hl=en-US&gl=CZ) 
+- BugDance - [X] SOLVED [Microsoft Store](https://apps.microsoft.com/detail/9n2sxrc95vv5?hl=en-US&gl=CZ) 
+- Spider Watch - [X] SOLVED [Microsoft Store](https://apps.microsoft.com/detail/9p6fx1k5143z?hl=en-US&gl=CZ) 
 
-- Bats Swarm - [X] SOLVED [Microsoft Store](https://apps.microsoft.com/detail/9p94gjp7xnff?hl=en-US&gl=CZ)  \
-- BIBUWAY - [X] SOLVED [Microsoft Store](https://apps.microsoft.com/detail/9n2qxlzmr8st?hl=en-US&gl=CZ) \
-- Bug Clock - [X] SOLVED [Microsoft Store](https://apps.microsoft.com/detail/9nn4mqpz160t?hl=en-US&gl=CZ) \
-- Bug mdPad - [X] SOLVED [Microsoft Store](https://apps.microsoft.com/detail/9p4s1sjvxv9k?hl=en-US&gl=CZ) \
-- Bug Player - [X] SOLVED [Microsoft Store](https://apps.microsoft.com/detail/9nnqp58bbrs4?hl=en-US&gl=CZ) \
-- Bug Video - [X] SOLVED [Microsoft Store](https://apps.microsoft.com/detail/9pcwj80qc9bn?hl=en-US&gl=CZ) \
-- BugDance - [X] SOLVED [Microsoft Store](https://apps.microsoft.com/detail/9n2sxrc95vv5?hl=en-US&gl=CZ) \
-- Spider Watch - [X] SOLVED [Microsoft Store](https://apps.microsoft.com/detail/9p6fx1k5143z?hl=en-US&gl=CZ)
+<img width="500" height="375" alt="Bug_Clock" src="https://github.com/user-attachments/assets/ce283ad1-1759-473b-ac26-7cbc936eeb14" />
 
 ---
-<img width="500" height="375" alt="Bug_Clock_plakat_2000x1500" src="https://github.com/user-attachments/assets/ce283ad1-1759-473b-ac26-7cbc936eeb14" />
 
+<img width="500" height="282" alt="Diabolus" src="https://github.com/user-attachments/assets/63468c18-2ca0-47ef-ab0d-4a4584caeb87" />
 
----  
+- Bats Swarm - [X] SOLVED [Microsoft Store](https://apps.microsoft.com/detail/9p94gjp7xnff?hl=en-US&gl=CZ)  \
+
+<img width="500" height="375" alt="Bats_Swar" src="https://github.com/user-attachments/assets/c60c6fde-cce1-4732-801c-e24cb97c6fae" />
+
+---
 
 ```js
 Entropie jevu se rovná nule, když je tento jev jednoznačně určený.
