@@ -32,8 +32,15 @@ zavisly_vyvojar#errorlevel>∞#@echo_off#
 <img width="600" height="328" alt="Rule_30" src="https://github.com/user-attachments/assets/dbe6d390-db0d-4a75-88d7-cc322378db90" />
 
 
-## yo no naka ni guuzen wa nai, aru no wa hitsuzen dake
-## Na světě neexistují náhody, existuje pouze nevyhnutelnost.
+> yo no naka ni guuzen wa nai \
+> aru no wa hitsuzen dake \
+> na světě neexistují náhody \
+> existuje pouze nevyhnutelnost 
+```js
+guzen
+nebo
+hitsuzen
+```
 
 ---
 ---  
